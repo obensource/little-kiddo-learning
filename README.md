@@ -15,16 +15,16 @@ Never be afraid to cover difficult, or seemingly 'adult' concepts. They're learn
 Fight against cultural barriers around specific subjects. These biases are usually formed based on the experiences of personal upbringing, and the culture one was raised in or lives in now. We should never teach our children that 'math is for math-people', or 'programming is for a certain kind of person'. If we open up an unhinged world of discovery on the onset, they may learn to cherish the interplay of all these things–while not being held back in letting them enrich their lives collectively.
 
 ## Table of Subjects
-* [Reading](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#reading)
-* [Numbers](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#numbers)
-* [Geometry](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#geometry)
-* [Physics](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#physics)
-* [Direction](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#direction)
-* [Geography](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#geography)
-* [Astronomy](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#astronomy)
-* [Programming](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#programming)
-* [Math](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#math)
-* [Music](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#music)
+### [Reading](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#reading)
+### [Numbers](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#numbers)
+### [Geometry](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#geometry)
+### [Physics](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#physics)
+### [Direction](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#direction)
+### [Geography](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#geography)
+### [Astronomy](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#astronomy)
+### [Programming](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#programming)
+### [Math](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#math)
+### [Music](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#music)
 
 ## Reading
 
