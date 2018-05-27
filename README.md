@@ -46,7 +46,6 @@ Fight against cultural barriers around specific subjects. These biases are usual
   * Ask this during flash card sessions.
   * Have them repeat the answer.
   * Show them 'alphebets' from other languages to support the concept, for example: a [hiragana chart](https://files.tofugu.com/articles/japanese/2016-04-05-hiragana-chart/happylilac-hiragana-chart.pdf) (Japanese).
-  * A 'Keyboard-Smasher' game
 
 ## Numbers
 
