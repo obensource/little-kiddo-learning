@@ -17,6 +17,7 @@ Fight against cultural barriers around specific subjects. These biases are usual
 ## Table of Subjects
 * [Words](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#symbols)
 * [Reading](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#reading)
+* [Writing](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#writing)
 * [Numbers](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#numbers)
 * [Geometry](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#geometry)
 * [Physics](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#physics)
@@ -38,6 +39,7 @@ Fight against cultural barriers around specific subjects. These biases are usual
 
 ## Reading
 * Reading books everyday, constantly. Inbetween physical activities, or whenever there's down time.
+* Singing the ABCs song every night together twice while brushing our teeth (one time per row).
 * [Pooh's First Words Flash Cards](https://www.amazon.com/Disney-Winnie-Learning-Cards-Decks/dp/B008440UWC/ref=sr_1_1?ie=UTF8&qid=1527402525&sr=8-1&keywords=winnie+the+pooh+flash+cards)
   * Associate verbs and nouns with fun characters they like.
 * [Mr. and Mrs. Potato Head Alphebet Flash Cards](https://www.amazon.com/Playskool-Prek-K-Flash-Cards-featuring/dp/B077HPGY73/ref=sr_1_fkmr0_1?ie=UTF8&qid=1527402791&sr=8-1-fkmr0&keywords=mr+potato+head+abc+cards)
@@ -46,6 +48,10 @@ Fight against cultural barriers around specific subjects. These biases are usual
   * Ask this during flash card sessions.
   * Have them repeat the answer.
   * Show them 'alphebets' from other languages to support the concept, for example: a [hiragana chart](https://files.tofugu.com/articles/japanese/2016-04-05-hiragana-chart/happylilac-hiragana-chart.pdf) (Japanese).
+  
+## Writing
+* Write their name together, and the names of their family members and friends.
+* Write out the alphebet together.
 
 ## Numbers
 
