@@ -1,4 +1,4 @@
-# Introducing Kiddos to a Big World of Awesomeness 🌎🌍🌏
+# 🌍 Introducing Kiddos to a Big World of Awesomeness 🌎
 If you have a little kiddo in your life and are responsible for their upbringing in any capacity–you're probably familiar with the impassioned feeling of wanting to do everything you can to make sure they get to explore as much of this big, awesome, diverse world of thoughts and experiences as possible.
 
 ## Doing What Works
@@ -52,8 +52,15 @@ Fight against cultural barriers around specific subjects. These biases are usual
 ## Writing
 * Write their name together, and the names of their family members and friends.
 * Write out the alphebet together.
+* Put together familiar words with an [Alphabet Stamp Set](https://www.amazon.com/Melissa-Doug-Alphabet-Stamp-Set/dp/B00UX9DPUA/).
+* Write a card together for a family member or friend. Have fun coming up with a short message and writing it out together.
 
 ## Numbers
+* Count **everything** together. One by one.
+* [Pooh's Number Match Flash Cards](https://www.amazon.com/Disney-Winnie-Learning-Cards-Decks/dp/B008440UWC/), and [Eric Carle Number Flash Cards](https://www.barnesandnoble.com/p/toys-games-the-world-of-eric-carle/29225519/2679919942343).
+  * Helps make the association between a number as a symbol and the number of items it represents.
+  * Helps with understanding that numbers can be represented by a word and a symbol.
+* [Abacus (IKEA)](https://www.ikea.com/us/en/catalog/products/10387614/)
 
 ## Geometry
 
