@@ -1,4 +1,4 @@
-# 🌍 Introducing Kiddos to a Big World of Awesomeness 🌎
+# Introducing Kiddos to a Big World of Awesomeness 🌎🌍🌏
 If you have a little kiddo in your life and are responsible for their upbringing in any capacity–you're probably familiar with the impassioned feeling of wanting to do everything you can to make sure they get to explore as much of this big, awesome, diverse world of thoughts and experiences as possible.
 
 ## Doing What Works
@@ -23,6 +23,7 @@ Fight against cultural barriers around specific subjects. These biases are usual
 * [Physics](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#physics)
 * [Direction](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#direction)
 * [Geography](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#geography)
+* [Horticulture](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#horticulture)
 * [Astronomy](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#astronomy)
 * [Programming](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#programming)
 * [Math](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#math)
@@ -57,18 +58,50 @@ Fight against cultural barriers around specific subjects. These biases are usual
 
 ## Numbers
 * Count **everything** together. One by one.
+* Frequently ask 'how many are there?' about **everything**.
 * [Pooh's Number Match Flash Cards](https://www.amazon.com/Disney-Winnie-Learning-Cards-Decks/dp/B008440UWC/), and [Eric Carle Number Flash Cards](https://www.barnesandnoble.com/p/toys-games-the-world-of-eric-carle/29225519/2679919942343).
-  * Helps make the association between a number as a symbol and the number of items it represents.
-  * Helps with understanding that numbers can be represented by a word and a symbol.
+  * Make the association between a number as a symbol, and the number of items it represents.
+  * Understand that numbers can be represented by both a word and a symbol.
+* [BabySmash](http://babysmash.com/) for a fun 'pop up' number guessing activity.
+* 'Fruit Math': Count, add, and subtract using a group of fruits.
+* 'Sandwich Fractions': Whenever you can, make a sandwhich together and talk about each fraction made as you cut it into 4 quarters.
+  * "This is a whole sandwhich, now 2 halves, now 3 thirds, now 4 quarters!"
 * [Abacus (IKEA)](https://www.ikea.com/us/en/catalog/products/10387614/)
+  * Reinforce numbers as a grouping of single objects.
+  * Grasp basic addition, subtraction, multiplication, division, and [modulo](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic) operations.
+    * First help them to understand the definition of these words: "A division is when you take a whole thing and break it up into parts."
+    * The following examples intend to be a starting point from which you can spring into using larger numbers and work towards deeper reinforcement.
+    * Addition: Start with the top row of beads and talk about addition–"Ok I have one bead, now how many do I have if I add 1 more, how about 3 more?"
+    * Subtraction: Start with the top row of beads and talk about subtraction–"Ok I have five beads, now how many do I have if I take away 1, what if I take away 3 more?"
+    * Multiplication: Count the first row of 10 beads, then help them understand they can count the proceeding rows by 10, reaching 100 much quicker than counting single beads.
+    * Division: Count the first row of 10 beads, break them into 2 sets of 5, and ask–how many 5's can go into 10 beads? 2? So 10 divided by 2 is 5? And that means half of 10 is 5 right? (reinforce fractions).
+    * Modulo: Count 5 beads and ask: "How many 2's go into this group of 5 beads? 2? Oh, then how many are left over? Awesome, our answer is 1!" Repeat with 6 modulo 2, "Ok, so none are left over this time! Our answer is 2!"
 
 ## Geometry
+* Introduction to shapes:
+  * [BabySmash](http://babysmash.com/) introduction to shapes, including polygons.
+    * While doing this, ask: "how many sides does this shape have? (reinforcing polygon identification)"
+  * [Pooh's Color's and Shapes Flash Cards](https://www.amazon.com/Disney-Winnie-Learning-Cards-Decks/dp/B008440UWC/ref=sr_1_1?ie=UTF8&qid=1527402525&sr=8-1&keywords=winnie+the+pooh+flash+cards)
+* Shape match game: [Fold a paper into 3rds](https://cdn.instructables.com/FKI/ENYK/HJKBSY7L/FKIENYKHJKBSY7L.LARGE.jpg), cut out various shapes along each crease, give them the cut-out shapes, and have them match them up on the paper while identifying which shape they are.
+* 'Shapes in the world' game: Anywhere, in any environment–ask them what shapes things around them are made out of. For example–a trampoline is a circle, and a house is a mix of squares, rectangles, triangles, circles, etc. "What shapes are in that cloud? What shape is the moon?"
 
 ## Physics
+* Introduction to gravity, force, mass, and inertia:
+  * Watch Bill Nye the Science Guy, Season 1, episode 6 ('Gravity') together.
+    * Talk about how the earth spins around the Sun, while spinning at the same time, and pushes everything down towards it center.
+    * Ask them to jump, and then ask "why did you come back down when you jumped up?"
+    * Tie understanding gravity into talking about orbit, and how the planets all spin around the Sun because of its gravitational pull.
+  * 'Soccer Ball Physics': When kicking a soccer ball together, talk about how everthing has mass. And how force affects things with mass like the soccer ball (the force from our legs kicking it). 
+    * Gravity: Then throw the soccer ball in the air, and ask: "why does the ball come right back down to me after I throw it up in the air?"
+    * Inertia: Then talk about how the ball is doing nothing until I kick it. It's just going to keep doing nothing... and nothing... and nothing... until something does something to it! Then ask, "Why doesn't the ball just keep going after I kick it?" Ask if they can see that the grass slows it down until it stops. "Why? Inertia! It might just keep on going into space if it didn't have stuff affecting it like gravity and inertia!"
+  * 'Bouncy Ball Physics': Reinforce 'Soccer Ball Physics' with a bouncy ball when playing inside.
+  * 'Gear Train Physics': With a set of [Gear Magnets](http://tomy.com/toomies/gearation-refrigerator-magnets?gclid=EAIaIQobChMIsPjQvtvq2wIVRYF-Ch0m5QD4EAQYASABEgLfyvD_BwE), talk about how the force of the first gear transfers to each one you add on, affecting the speed of each one differently depending on their size and shape.
 
 ## Direction
 
 ## Geography
+
+## Horticulture
 
 ## Astronomy
 
