@@ -87,7 +87,7 @@ Fight against cultural barriers around specific subjects. These biases are usual
 
 ## Physics
 * Introduction to gravity, force, mass, and inertia:
-  * Watch Bill Nye the Science Guy, Season 1, episode 6 ('Gravity') together.
+  * Watch Bill Nye the Science Guy, [Season 1, episode 6 ('Gravity')](https://www.dailymotion.com/video/x3cpv1v) together (available on Netflix).
     * Talk about how the earth spins around the Sun, while spinning at the same time, and pushes everything down towards it center.
     * Ask them to jump, and then ask "why did you come back down when you jumped up?"
     * Tie understanding gravity into talking about orbit, and how the planets all spin around the Sun because of its gravitational pull.
