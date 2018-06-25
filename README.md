@@ -66,6 +66,11 @@ Fight against cultural barriers around specific subjects. These biases are usual
 * Reinforce numbers everywhere:
   * Point out that numbers are on the pages of their books when reading together. 
   * 'Calculator fun!': show that numbers (as symbols) are used in everyday things. Count up from one together, pressing each representative button while saying the number out loud.
+* Decimals:
+  * Talk about how numbers are grouped by 10s, and then ask 'Why? Is it because we have 10 toes and 10 fingers?' (then count to 20 on their toes and fingers).
+  * Reinforce with counting by 10s with the Abacus (see [Math](./README.md#math)).
+  * Reinforce with dimes: introduce the dollar as a whole unit made up of 10 dimes, and then break the dime down as a unit of 10 pennies. Then mention that the dollar is a collection of 100 pennies.
+* Radix: introduce them to the fact numbers don't just have to count up to 10 to be useful. They can count to less than 10–like 2 (binary) or 8 (octal), or more than 10–like 16 (hexadecimal). Mention that counting in 10s is useful to people, but counting in these other ways can be useful to computers, robots, and other machines that people use to do amazing things.
 
 ## Math
 * 'Fruit Math': Count, add, and subtract using a group of fruits.
@@ -119,6 +124,11 @@ Fight against cultural barriers around specific subjects. These biases are usual
   * 'Gear Train Physics': With a set of [Gear Magnets](http://tomy.com/toomies/gearation-refrigerator-magnets?gclid=EAIaIQobChMIsPjQvtvq2wIVRYF-Ch0m5QD4EAQYASABEgLfyvD_BwE), talk about how the force of the first gear transfers to each one you add on, affecting the speed of each one differently depending on their size and shape.
 
 ## Direction
+* The 'Direct me!' Game:
+  * Left/Right: When outside in a large open space, put them on your back or shoulders and start walking at a slow pace without stopping. Ask them to direct you to go left or right as you go in order to avoid walking into walls, etc, while making your way towards a predetermined destination.
+  * Cardinal Directions (N/S/E/W): Level up with talking about the cardinal directions, getting them comfortable with opposite directions (N is opposite of South, East vs. West). Have them point at each direction with you while doing this. Then ask them to hop on your back and tell you where to go with the 'direct me' game!
+    * Can be reinforced by doing these activities with a compass, and talking about the North star (how sailors used it to know which direction they were travelling in). ['The Big Dipper'](https://www.amazon.com/Big-Dipper-Lets-Read-Find-Out-Science/dp/0064451003/ref=sr_1_1?ie=UTF8&qid=1529899999&sr=8-1&keywords=the+big+dipper+book) book explores this concept well in an accessible way.
+  * Have fun talking about and summarizing direction with the ['direction tractor'](https://www.amazon.com/Magic-Inductive-Follows-Children-Random/dp/B076XKXQK5/ref=pd_lpo_vtph_21_bs_tr_t_1?_encoding=UTF8&psc=1&refRID=1RK8X9B2K0BCJDBPQFCV)!
 
 ## Geography
 
