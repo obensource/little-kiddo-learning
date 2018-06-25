@@ -19,6 +19,7 @@ Fight against cultural barriers around specific subjects. These biases are usual
 * [Reading](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#reading)
 * [Writing](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#writing)
 * [Numbers](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#numbers)
+* [Math](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#math)
 * [Geometry](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#geometry)
 * [Physics](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#physics)
 * [Direction](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#direction)
@@ -26,7 +27,6 @@ Fight against cultural barriers around specific subjects. These biases are usual
 * [Horticulture](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#horticulture)
 * [Astronomy](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#astronomy)
 * [Programming](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#programming)
-* [Math](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#math)
 * [Music](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#music)
 
 ## Words
@@ -63,9 +63,17 @@ Fight against cultural barriers around specific subjects. These biases are usual
   * Make the association between a number as a symbol, and the number of items it represents.
   * Understand that numbers can be represented by both a word and a symbol.
 * [BabySmash](http://babysmash.com/) for a fun 'pop up' number guessing activity.
+* Reinforce numbers everywhere:
+  * Point out that numbers are on the pages of their books when reading together. 
+  * 'Calculator fun!': show that numbers (as symbols) are used in everyday things. Count up from one together, pressing each representative button while saying the number out loud.
+
+## Math
 * 'Fruit Math': Count, add, and subtract using a group of fruits.
 * 'Sandwich Fractions': Whenever you can, make a sandwhich together and talk about each fraction made as you cut it into 4 quarters.
-  * "This is a whole sandwhich, now 2 halves, now 3 thirds, now 4 quarters!"
+  * 'This is a whole sandwhich, now 2 halves, now 3 thirds, now 4 quarters!'
+* 'Piano Fractions': Play two notes an octave apart, and ask 'Can you hear that they sound the same? That's means these notes are a whole octave!' Then ask 'how many notes are in between?', count the 12 notes, and ask 'how many notes make up the whole octave?'
+  * 'How many white notes and black notes make up the ocatave?' (8 and 5)?
+  * '1/2 of 12 is what (6)? Great, can you hear how when we play the 1 and 6 note together it sounds agreeable (a 4th)? How about when we play the 1 and 8 note together? That sounds awesome too (a 5th)!'
 * [Abacus (IKEA)](https://www.ikea.com/us/en/catalog/products/10387614/)
   * Reinforce numbers as a grouping of single objects.
   * Grasp basic addition, subtraction, multiplication, division, and [modulo](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic) operations.
@@ -76,14 +84,27 @@ Fight against cultural barriers around specific subjects. These biases are usual
     * Multiplication: Count the first row of 10 beads, then help them understand they can count the proceeding rows by 10, reaching 100 much quicker than counting single beads.
     * Division: Count the first row of 10 beads, break them into 2 sets of 5, and ask–how many 5's can go into 10 beads? 2? So 10 divided by 2 is 5? And that means half of 10 is 5 right? (reinforce fractions).
     * Modulo: Count 5 beads and ask: "How many 2's go into this group of 5 beads? 2? Oh, then how many are left over? Awesome, our answer is 1!" Repeat with 6 modulo 2, "Ok, so none are left over this time! Our answer is 2!"
+* Count coins. Start with 'how many', counting them sequentially as objects. Then talk about the assigned values of the coins (pennies, nickels, dimes), and try to add and subtract them by value. Multiplication, division, and modulo operations can be reinforced as well.
+* 'Calculator Fun': reinforce arithmetic operations with symbols. "See! 5 times 2 is 10! The number machine says so!"
 
 ## Geometry
 * Introduction to shapes:
   * [BabySmash](http://babysmash.com/) introduction to shapes, including polygons.
     * While doing this, ask: "how many sides does this shape have? (reinforcing polygon identification)"
   * [Pooh's Color's and Shapes Flash Cards](https://www.amazon.com/Disney-Winnie-Learning-Cards-Decks/dp/B008440UWC/ref=sr_1_1?ie=UTF8&qid=1527402525&sr=8-1&keywords=winnie+the+pooh+flash+cards)
+  * Draw shapes together in a sandbox.
 * Shape match game: [Fold a paper into 3rds](https://cdn.instructables.com/FKI/ENYK/HJKBSY7L/FKIENYKHJKBSY7L.LARGE.jpg), cut out various shapes along each crease, give them the cut-out shapes, and have them match them up on the paper while identifying which shape they are.
 * 'Shapes in the world' game: Anywhere, in any environment–ask them what shapes things around them are made out of. For example–a trampoline is a circle, and a house is a mix of squares, rectangles, triangles, circles, etc. "What shapes are in that cloud? What shape is the moon?"
+* Draw an outside scene together in the form of shapes.
+* 'Shapes in a picture' game: Take a picture, print it out. Discover the shapes within it, and cut them out together.
+* 'Fruit Shapes': Cut a citrus fruit (orange, lemon, grapefruit, etc) in half and ask what shapes they see (the half is a circle, the inner sections are now triangles). Then reinforce numbers with counting the number of sections, and how many of them make the whole fruit (fractions).
+* Angles: Make an animal (cat, dog, bird) together out of triangles.
+  * Can draw, or cut out a lot of paper triangles to paste together.
+  * Introduces the concept of angles with obtuse, acute, and right triangles.
+* Trapezoids: Create your own 4 sided shapes together by drawing or with paper cut outs.
+* Polygons:
+  * Reinforcing polagonal 'sides' by drawing each shape together. 1: line, 2: angle, 3: triangle, 4: square, 5: pentagon, etc. Each time you draw a new shape, circle and count each point to reinforce the polygon's identity. Once you get to 12 or more, ask 'what shape is this starting to look like?' (a circle).
+  * 'Polygon star game': starting with a pentagon, explore [the stars]() you can create together when connecting the points within polygons. Ask if they can see the shapes within the stars (squares, triangles, rectangles). If drawn, cut out and hang the stars in their play area for fun.
 
 ## Physics
 * Introduction to gravity, force, mass, and inertia:
