@@ -29,6 +29,10 @@ Fight against cultural barriers around specific subjects. These biases are usual
 * [Programming](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#programming)
 * [Music](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#music)
 
+## Supportive Media
+* [Constructive Educational Shows](https://github.com/obensource/little-kiddo-learning/blob/master/README.md#constructive-educational-shows)
+
+
 ## Words
 * 'Word walks'
   * Talking about all the objects along the way with your kiddo while going on a walk.
@@ -40,21 +44,31 @@ Fight against cultural barriers around specific subjects. These biases are usual
 
 ## Reading
 * Reading books everyday, constantly. Inbetween physical activities, or whenever there's down time.
+* If you've read a particular book to them a couple times already, start redacting nouns/proper nouns when reading it again–and let them guess what the word is (reinforces critical thinking and word memory).
+* Introduce books written in other languages so they get a sense of the diversity of human language. Ideally a second language you're familiar with, in order to read it to them–but exposure via recording or video is beneficial too.
+  * Example: [Japanese Nursery Rhymes: Carp Streamers, Falling Rain, and other favorites](https://www.tuttlepublishing.com/books-by-country/japanese-nursery-rhymes-hardcover-with-jacket-and-disc). A book of children's rhymes that presents each line in both Japanese, and an English together.
+  * Walk through and translate a Children's book together. Example: [うらしまたろう](https://www.poplar.co.jp/book/search/result/archive/3510007.html).
+* As early as it's feasible to hold a child's attention for this (possibly around 2.5–3 years of age), introduce them to 'longform' chapter books. Try to get through one chapter per reading session so you can help the child solidify mental landmarks in the story, and recap each time you read a new chapter together.
+  * Example introductory chapter book: The Lion, the Witch, and the Wardrobe.
 * Singing the ABCs song every night together twice while brushing our teeth (one time per row).
 * [Pooh's First Words Flash Cards](https://www.amazon.com/Disney-Winnie-Learning-Cards-Decks/dp/B008440UWC/ref=sr_1_1?ie=UTF8&qid=1527402525&sr=8-1&keywords=winnie+the+pooh+flash+cards)
   * Associate verbs and nouns with fun characters they like.
 * [Mr. and Mrs. Potato Head Alphebet Flash Cards](https://www.amazon.com/Playskool-Prek-K-Flash-Cards-featuring/dp/B077HPGY73/ref=sr_1_fkmr0_1?ie=UTF8&qid=1527402791&sr=8-1-fkmr0&keywords=mr+potato+head+abc+cards)
   * Gains understanding of 'big' and 'little' letters (upper and lower case).
-* Question: 'What is an Alphebet'? Answer: 'A group of letters'.
+* Question: 'What is an Alphebet'? Answer: 1. 'A group of letters'. 2. 'A set of letters' (reinforce the concept of a [set](https://en.wikipedia.org/wiki/Set_(mathematics)))
   * Ask this during flash card sessions.
   * Have them repeat the answer.
   * Show them 'alphebets' from other languages to support the concept, for example: a [hiragana chart](https://files.tofugu.com/articles/japanese/2016-04-05-hiragana-chart/happylilac-hiragana-chart.pdf) (Japanese).
-  
+
 ## Writing
 * Write their name together, and the names of their family members and friends.
 * Write out the alphebet together.
 * Put together familiar words with an [Alphabet Stamp Set](https://www.amazon.com/Melissa-Doug-Alphabet-Stamp-Set/dp/B00UX9DPUA/).
 * Write a card together for a family member or friend. Have fun coming up with a short message and writing it out together.
+* Connect known words from other languages with how they're spelled out in that language's alphebet, and write them out together.
+  * Example: my kiddo loves the film ['My Neighbor Tototo'](https://en.wikipedia.org/wiki/My_Neighbor_Totoro) which has 2 lead characters named Sasuki and Mei, which is written as vさすき (Sasuki), and めい (Mei) in [hiragana](https://en.wikipedia.org/wiki/Hiragana) (Japanese phonetic alphebet). This makes it easy to introduce and acclimate the concept of phonetic alphabets when writing out the names of her favorite characters: さ('Sa') す('su') き('ki'), め('Me') い('i').
+  * Further word-spelling fun can be done by differentiating the concepts of alphebetic, logographic, and phonetic written languages: like the [English alphebet](https://en.wikipedia.org/wiki/English_alphabet), [Kanji](https://en.wikipedia.org/wiki/Kanji), and [Hiragana](https://en.wikipedia.org/wiki/Hiragana) (respectively). Logographic languages like Kanji are super fun to share because they're pictographic (you get to draw a picture of what you mean).
+    * For example: 木 means tree, 森 means forest (3 trees), 本 means book (the extra line represents a cut-down tree). Then pictographic identities compound when combined together, like 日本語 (Nihongo: the Japanese language). 日 (Ni - 'sun') the first character in 日本 (Nihon – the word for 'Japan'), 本 (Hon - 'origin') the second character–when compounded with the first literally translates to "the sun's origin' (or the colloquial 'land of the rising sun'). Finally 語 (Go - 'language') adds the characteristic of this word referring to an established language (as is appended to every word for a specific language, like: 英語 Eigo - 'English', or ドイツ語 Doitsugo - 'German').
 
 ## Numbers
 * Count **everything** together. One by one.
@@ -73,6 +87,10 @@ Fight against cultural barriers around specific subjects. These biases are usual
 * Radix: introduce them to the fact numbers don't just have to count up to 10 to be useful. They can count to less than 10–like 2 (binary) or 8 (octal), or more than 10–like 16 (hexadecimal). Mention that counting in 10s is useful to people, but counting in these other ways can be useful to computers, robots, and other machines that people use to do amazing things.
 
 ## Math
+* An 'unhindered' approach:
+  * Describing our world through math is fun on it's own–there doesn't have to be strings attached!
+  * It can be easy to step in too fast and provide answers, but try to give them time and figure it out for themselves.
+  * Try to refrain from being reserved about covering seemingly 'difficult' or 'adult' concepts. Often, conceptually simple topics can be masked by complex sounding monikers–but learning the vocabulary of all this stuff can come later!
 * 'Fruit Math': Count, add, and subtract using a group of fruits.
 * 'Sandwich Fractions': Whenever you can, make a sandwhich together and talk about each fraction made as you cut it into 4 quarters.
   * 'This is a whole sandwhich, now 2 halves, now 3 thirds, now 4 quarters!'
@@ -91,6 +109,40 @@ Fight against cultural barriers around specific subjects. These biases are usual
     * Modulo: Count 5 beads and ask: "How many 2's go into this group of 5 beads? 2? Oh, then how many are left over? Awesome, our answer is 1!" Repeat with 6 modulo 2, "Ok, so none are left over this time! Our answer is 2!"
 * Count coins. Start with 'how many', counting them sequentially as objects. Then talk about the assigned values of the coins (pennies, nickels, dimes), and try to add and subtract them by value. Multiplication, division, and modulo operations can be reinforced as well.
 * 'Calculator Fun': reinforce arithmetic operations with symbols. "See! 5 times 2 is 10! The number machine says so!"
+
+
+* (Making this fun with no strings attached)
+* (Don't step in too fast, don't be afraid to cover seemingly difficult/adult concepts–learning the vocabulary of all this stuff comes later)
+* Lightswitch Binary (radix, similar to languages - numbers have different bases for our systems of numeration)
+* ['Math Wizardy for Kids'](https://www.amazon.com/Math-Wizardry-Kids-Margaret-Kenda/dp/B00A18KYP2)
+  * For Parents and Teachers section: [Page 1](https://i.imgur.com/RmzpyKV.jpg), [Page 2](https://i.imgur.com/zsOGEEG.jpg), [Page 3](https://i.imgur.com/pC8WcMU.jpg), [Page 4](https://i.imgur.com/mMz4n7Q.jpg).
+* Shapes/Patterns outside: clouds, houses, etc -> shapes
+* Draw Nature's Shapes: Draw all things as shapes together.
+* Draw shapes in a sandbox
+* Make a cat/bird/etc out of triangles - introduce the idea of angles θ!
+* 'Stars in shapes' game!
+  * Design your own four sided shapes and cut them out (trapezoids)
+  * Draw lines to connect the corners together. Do you see the triangles starting to emerge?
+  * 5 sided shape: Pentagon - Now stars are emerging when you connect the corners together! (5 sided star)
+  * 6 sided shape: Hexagon - 6 sided star
+  * 8 sided shape: Octogons - 8 sided star. When you connect all the points, what shapes do you see? (Squares, triangles, rectangles)
+  * Polygons (points and lines): Now lets try a 12 sided shape. What shape is this starting to look like? (A circle)
+  * Cut out all your starry shapes and hang them together!
+* 'Shapes in a picture'
+  * Discover shapes within it
+  * Cut out those shapes
+* 'Citris Shapes'
+  * Cut an orange, lemon, or grapefruit in half and ask 'what shapes do you see in here?' (triangles)
+  * How many triangles are in here?
+  * Now, how many make the whole? (refinforce fractions)
+* 'Secret Code'
+* Count letters
+* Assign Numbers
+* Code a word
+* Decode a word
+* Letters to numbers
+* Shapes to numbers
+* Letters to shapes
 
 ## Geometry
 * Introduction to shapes:
@@ -131,13 +183,98 @@ Fight against cultural barriers around specific subjects. These biases are usual
   * Have fun talking about and summarizing direction with the ['direction tractor'](https://www.amazon.com/Magic-Inductive-Follows-Children-Random/dp/B076XKXQK5/ref=pd_lpo_vtph_21_bs_tr_t_1?_encoding=UTF8&psc=1&refRID=1RK8X9B2K0BCJDBPQFCV)!
 
 ## Geography
+* Discover the properties of Earth with Google Earth 🌍 (super fun when displayed on the ceiling with a projector! 🎥):
+  * Go on a 'top-down' regional tour of the Earth!
+    * Identify each continent, and mention a little topographical info about each one: mountains, rivers, islands, etc.
+    * Choose a continent to dive into, and introduce the concept of countries while gliding over it's regions.
+    * Choose a country and zoom in to discover cities and towns! Introduce the concept of districts, blocks, neighborhoods, streets, etc.
+* Reinforce general understanding by taking a virtual tour of:
+  * Where you live!
+  * Where your friends live!
+  * Places you've been!
 
 ## Horticulture
+Go on a ['tour of smells'](https://i.imgur.com/3rXeMf6.jpg)!
+* If you have access to any type of herb garden:
+  * Pick samples of various herbs
+  * Identify each
+  * Talk about the differences in their scent and taste!
 
 ## Astronomy
+* Look up at the sky together and learn about what's out there with a 'star guide' app. Example: [Star Walk](https://itunes.apple.com/us/app/star-walk-for-ipad-interactive/id363486802?mt=8)
+* Introduce and/or reinforce the concept of constellations with an introductory book like '[The Big Dipper](https://www.amazon.com/Big-Dipper-Publisher-Collins-Revised/dp/B004QDSJ8C)'.
+* Watch Bill Nye the Science Guy, [Season 3, episode 1 ('Planets & Moons')](https://www.dailymotion.com/video/x3jyutv) together (available on Netflix).
+* Continually reference the Earth as 'our planet', or 'the planet we live on'. Relate in terms of other planets, our Sun, and other Solar systems.
+* Reinforce the concept of gravity by talking about:
+  * How the Sun's gravity keeps all the other planets spinning around it–planets don't just fly around in space.
+  * Planets' gravity keep moons spinning around them.
+* Then introduce orbits (and their relation to gravity): planets orbit around the sun, moons orbit around planets.
+* Planets are always spinning! Reinforce this concept by talking about sunrises and sunsets:
+  * 'When the sun is going up the earth is spinning towards the sun.'
+  * 'When the sun is going down the earth is spinning away from the sun.'
+* Magnetism: consider together that the Earth's poles are magnetic, and that there is a north magnetic-pole, and south magnetic-pole. Discover how the direction of the north pole can be found together by using a compass!
+* Seasons and Temperatures: talk about the season you're currently in, and how the temperature is that way because the Earth's spins around its pole–which doesn't 'stand up straight'. So it's colder or hotter based on which way the earth is tilted during its year-long trip around the Sun! 
+* If you have access to one, visit your local Planetarium! (Example: Periodically catch a show at [OMSI's Planetarium](https://omsi.edu/planetarium) together and learn about stuff like solar systems and dark matter!)
 
 ## Programming
-
-## Math
+* Turtle Programming Instructions (Geometry, Differential Equations, Units of measurement, Metrics, Algorithmic thinking)
+* 'Daddy Instructions' Game (outstide activity) -> Daddy is the Turtle
+* 'Mindstorms' bu Seymour Papert
+* Constructionist Play (videos)
+* 'How to Code a Sandcastle' book (Algorithmic thinking, sequence, loops, if-then-else statments, modularity)
 
 ## Music
+
+### Explore, Create, and Share
+* Casio Keyboard
+  * Keys
+  * 'Different Sounds'
+  * Sound types (introduction to timbre and instrument sections/categories)
+
+* Google SongMaker
+  * Organize Sound
+  * Compose Sound
+  * Deconstruct Sound
+
+* Synthesizers
+  * Build and Change an instrument/sound/voice
+
+* Guitar / Banjo / Etc
+  * Play the rhythm while I play the chords
+
+Rise Up Singing Songbook
+  * Folk Music: Doing something with music for your community, neigbors, family, etc. Not just 'consuming and proliferating sounds'. You have a voice and you can bring people together around the story you believe in.
+
+### Appreciation
+Ballet, Symphony, Opera
+Deconstruct, dynamics, feeling/mood, expression, message (folk music)
+* music book w/instrument video introductions
+  * Nutcraker
+  * Peter & The Wolf
+  * Taraf De Haidouks
+  * Snarky Puppy
+  * Thomas Tallis
+  * Chopin (Richter)
+  * Computer Music (Chowning, Slork, EEG, etc)
+
+
+## Constructive Educational Shows
+Be 100% intentional about which shows your kiddos are allowed to engage with. Subjecting them to the 'everything and the kitchen sink' outlet that standard television facilitates (with it's unpredictable social content and mindless entertainment) will likely distract or stall a child's development. Even shows marketed as 'educational' can leave much to be desired. There are a handful of brilliant educatinal shows that engage with children in a [constructionist](https://en.wikipedia.org/wiki/Constructionism_(learning_theory)) way–such that the programming doesn't push the viewer off the precipice of foundational learning into the realm of pseudo-learning or distraction.
+
+**Here's a few awesome ones!**
+
+* Reading:
+  * [SuperWHY!](http://www.pbs.org/parents/superwhy/) – [Netflix](https://www.netflix.com/Kids/title/70222359)
+  * [Reading Rainbow](https://www.readingrainbow.org/) – [Amazon Video](https://www.amazon.com/gp/video/detail/B01M8F3AYV/?ref=DVM_US_JK_PS_READRAINBOWAMZNb1|c_164126775497_m_JmGr93du-dc_s__)
+* General learning (Core Values, Discovery, Family, Community Engagement, Social Values):
+  * [Mr. Roger's Neighborhood](https://www.misterrogers.org/) – [Amazon Video](https://www.amazon.com/Mister-Rogers-Neighborhood-Volume-1/dp/B004BZG1MG)
+  * [Daniel Tiger's Neighborhood](http://www.pbs.org/parents/daniel/) – [Amazon Video](https://www.amazon.com/Daniel-Tigers-Neighborhood-Season-1/dp/B009C496H8)
+* Problem Solving:
+  * [Dora the Explorer](https://en.wikipedia.org/wiki/Dora_the_Explorer) – [Amazon Video](https://www.amazon.com/Dora-the-Explorer-Season-1/dp/B000I9S58M)
+  * [SuperWHY!](http://www.pbs.org/parents/superwhy/) – [Netflix](https://www.netflix.com/Kids/title/70222359)
+* Science:
+  * [Bill Nye the Science Guy](https://www.billnye.com/the-science-guy) – [Netflix](https://www.netflix.com/Kids/title/80046944)
+  * [The Magic School Bus (original series)](https://en.wikipedia.org/wiki/The_Magic_School_Bus_(TV_series)) – [Netflix](https://www.netflix.com/Kids/title/70264612)
+* Creativity, Imagination:
+  * [Sarah and Duck](https://www.sarahandduck.com/) – [Netflix](https://www.netflix.com/Kids/title/80017207)
+  * [Tumble Leaf](https://en.wikipedia.org/wiki/Tumble_Leaf) – [Amazon Video](https://www.amazon.com/Tumble-Leaf-Season-1/dp/B00CBZYPTY)
