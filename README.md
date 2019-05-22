@@ -1,4 +1,4 @@
-# Introducing Kiddos to a Big World of Awesomeness 🌎🌍🌏
+# Introducing Kiddos to a 🌎 Big World of Awesomeness 🌏
 If you have a little kiddo in your life and are responsible for their upbringing in any capacity–you're probably familiar with the impassioned feeling of wanting to do everything you can to make sure they get to explore as much of this big, awesome, diverse world of thoughts and experiences as possible.
 
 ## Doing What Works
