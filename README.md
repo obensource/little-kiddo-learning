@@ -49,7 +49,7 @@ Fight against cultural barriers around specific subjects. These biases are usual
   * Example: [Japanese Nursery Rhymes: Carp Streamers, Falling Rain, and other favorites](https://www.tuttlepublishing.com/books-by-country/japanese-nursery-rhymes-hardcover-with-jacket-and-disc). A book of children's rhymes that presents each line in both Japanese, and an English together.
   * Walk through and translate a Children's book together. Example: [うらしまたろう](https://www.poplar.co.jp/book/search/result/archive/3510007.html).
 * As early as it's feasible to hold a child's attention for this (possibly around 2.5–3 years of age), introduce them to 'longform' chapter books. Try to get through one chapter per reading session so you can help the child solidify mental landmarks in the story, and recap each time you read a new chapter together.
-  * Example introductory chapter book: The Lion, the Witch, and the Wardrobe.
+  * Example introductory chapter book: [The Lion, the Witch, and the Wardrobe](https://www.amazon.com/Lion-Witch-Wardrobe-C-Lewis/dp/0001720295/ref=sr_1_13).
 * Singing the ABCs song every night together twice while brushing our teeth (one time per row).
 * [Pooh's First Words Flash Cards](https://www.amazon.com/Disney-Winnie-Learning-Cards-Decks/dp/B008440UWC/ref=sr_1_1?ie=UTF8&qid=1527402525&sr=8-1&keywords=winnie+the+pooh+flash+cards)
   * Associate verbs and nouns with fun characters they like.
@@ -66,7 +66,7 @@ Fight against cultural barriers around specific subjects. These biases are usual
 * Put together familiar words with an [Alphabet Stamp Set](https://www.amazon.com/Melissa-Doug-Alphabet-Stamp-Set/dp/B00UX9DPUA/).
 * Write a card together for a family member or friend. Have fun coming up with a short message and writing it out together.
 * Connect known words from other languages with how they're spelled out in that language's alphebet, and write them out together.
-  * Example: my kiddo loves the film ['My Neighbor Tototo'](https://en.wikipedia.org/wiki/My_Neighbor_Totoro) which has 2 lead characters named Sasuki and Mei, which is written as vさすき (Sasuki), and めい (Mei) in [hiragana](https://en.wikipedia.org/wiki/Hiragana) (Japanese phonetic alphebet). This makes it easy to introduce and acclimate the concept of phonetic alphabets when writing out the names of her favorite characters: さ('Sa') す('su') き('ki'), め('Me') い('i').
+  * Example: my kiddo loves the film ['My Neighbor Tototo'](https://en.wikipedia.org/wiki/My_Neighbor_Totoro) which has 2 lead characters named Sasuki and Mei, which is written as さすき (Sasuki), and めい (Mei) in [hiragana](https://en.wikipedia.org/wiki/Hiragana) (Japanese phonetic alphebet). This makes it easy to introduce and acclimate the concept of phonetic alphabets when writing out the names of her favorite characters: さ('Sa') す('su') き('ki'), め('Me') い('i').
   * Further word-spelling fun can be done by differentiating the concepts of alphebetic, logographic, and phonetic written languages: like the [English alphebet](https://en.wikipedia.org/wiki/English_alphabet), [Kanji](https://en.wikipedia.org/wiki/Kanji), and [Hiragana](https://en.wikipedia.org/wiki/Hiragana) (respectively). Logographic languages like Kanji are super fun to share because they're pictographic (you get to draw a picture of what you mean).
     * For example: 木 means tree, 森 means forest (3 trees), 本 means book (the extra line represents a cut-down tree). Then pictographic identities compound when combined together, like 日本語 (Nihongo: the Japanese language). 日 (Ni - 'sun') the first character in 日本 (Nihon – the word for 'Japan'), 本 (Hon - 'origin') the second character–when compounded with the first literally translates to "the sun's origin' (or the colloquial 'land of the rising sun'). Finally 語 (Go - 'language') adds the characteristic of this word referring to an established language (as is appended to every word for a specific language, like: 英語 Eigo - 'English', or ドイツ語 Doitsugo - 'German').
 
@@ -80,6 +80,8 @@ Fight against cultural barriers around specific subjects. These biases are usual
 * Reinforce numbers everywhere:
   * Point out that numbers are on the pages of their books when reading together. 
   * 'Calculator fun!': show that numbers (as symbols) are used in everyday things. Count up from one together, pressing each representative button while saying the number out loud.
+* Counting to 100:
+  * Counting to 10 is the first big step, but as they get more comfortable with continuing to count upward – introduce a fun activity book like [Count & Find 100 Frogs and 10 Flies](https://www.abebooks.com/servlet/SearchResults?cm_sp=SearchF-_-topnav-_-Results&kn=count%20and%20find%20100%20frogs&sts=t). This makes counting just a byproduct of the fun of finding all the frogs and flies in on each page.
 * Decimals:
   * Talk about how numbers are grouped by 10s, and then ask 'Why? Is it because we have 10 toes and 10 fingers?' (then count to 20 on their toes and fingers).
   * Reinforce with counting by 10s with the Abacus (see [Math](./README.md#math)).
