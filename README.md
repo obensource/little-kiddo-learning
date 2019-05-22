@@ -70,8 +70,8 @@ Beyond walking through words in books together, flash cards are a fun exercise f
 * [Pooh's First Words Flash Cards](https://www.amazon.com/Disney-Winnie-Learning-Cards-Decks/dp/B008440UWC/ref=sr_1_1?ie=UTF8&qid=1527402525&sr=8-1&keywords=winnie+the+pooh+flash+cards): Learn to associate verbs and nouns with fun characters kiddos like.
 * [Mr. and Mrs. Potato Head Alphebet Flash Cards](https://www.amazon.com/Playskool-Prek-K-Flash-Cards-featuring/dp/B077HPGY73/ref=sr_1_fkmr0_1?ie=UTF8&qid=1527402791&sr=8-1-fkmr0&keywords=mr+potato+head+abc+cards): Gain an understanding of 'big' and 'little' letters (upper and lower case).
 
-#### Critical understanding of what words are
-Pose the question: 'What is an Alphebet?' and guide them towards understanding that the answers are:
+#### What is an alphabet?
+Pose the question: 'What is an Alphebet?' and guide them towards understanding that they are:
 1. A group of letters.
 2. A set of letters (reinforcing the concept of a [set](https://en.wikipedia.org/wiki/Set_(mathematics)))
 
