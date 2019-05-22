@@ -72,10 +72,10 @@ Beyond walking through words in books together, flash cards are a fun exercise f
 
 #### Critical understanding of what words are
 Pose the question: 'What is an Alphebet?' and guide them towards understanding that the answers are:
-1. 'A group of letters'.
-2. 'A set of letters' (reinforcing the concept of a [set](https://en.wikipedia.org/wiki/Set_(mathematics)))
+1. A group of letters.
+2. A set of letters (reinforcing the concept of a [set](https://en.wikipedia.org/wiki/Set_(mathematics)))
 
-This can be asked during flash card sessions. Have them repeat the answer, and also show them 'alphebets' from other languages to support the concept – for example: a [hiragana chart](https://files.tofugu.com/articles/japanese/2016-04-05-hiragana-chart/happylilac-hiragana-chart.pdf) (Japanese).
+This can be asked during flash card sessions. Have them repeat the answer, and also show them alphebets from other languages to support the concept – for example: a [hiragana chart](https://files.tofugu.com/articles/japanese/2016-04-05-hiragana-chart/happylilac-hiragana-chart.pdf) (Japanese).
 
 ## Writing
 * Write their name together, and the names of their family members and friends.
