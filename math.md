@@ -1,0 +1,57 @@
+## Math
+
+- An 'unhindered' approach:
+  - Describing our world through math is fun on it's own–there doesn't have to be strings attached!
+  - It can be easy to step in too fast and provide answers, but try to give them time and figure it out for themselves.
+  - Try to refrain from being reserved about covering seemingly 'difficult' or 'adult' concepts. Often, conceptually simple topics can be masked by complex sounding monikers–but learning the vocabulary of all this stuff can come later!
+- 'Fruit Math': Count, add, and subtract using a group of fruits.
+- 'Sandwich Fractions': Whenever you can, make a sandwich together and talk about each fraction made as you cut it into 4 quarters.
+  - 'This is a whole sandwich, now 2 halves, now 3 thirds, now 4 quarters!'
+- 'Piano Fractions': Play two notes an octave apart, and ask 'Can you hear that they sound the same? That's means these notes are a whole octave!' Then ask 'how many notes are in between?', count the 12 notes, and ask 'how many notes make up the whole octave?'
+  - 'How many white notes and black notes make up the octave?' (8 and 5)?
+  - '1/2 of 12 is what (6)? Great, can you hear how when we play the 1 and 6 note together it sounds agreeable (a 4th)? How about when we play the 1 and 8 note together? That sounds awesome too (a 5th)!'
+- [Abacus (IKEA)](https://www.ikea.com/us/en/catalog/products/10387614/)
+  - Reinforce numbers as a grouping of single objects.
+  - Grasp basic addition, subtraction, multiplication, division, and [modulo](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic) operations.
+    - First help them to understand the definition of these words: "A division is when you take a whole thing and break it up into parts."
+    - The following examples intend to be a starting point from which you can spring into using larger numbers and work towards deeper reinforcement.
+    - Addition: Start with the top row of beads and talk about addition–"Ok I have one bead, now how many do I have if I add 1 more, how about 3 more?"
+    - Subtraction: Start with the top row of beads and talk about subtraction–"Ok I have five beads, now how many do I have if I take away 1, what if I take away 3 more?"
+    - Multiplication: Count the first row of 10 beads, then help them understand they can count the proceeding rows by 10, reaching 100 much quicker than counting single beads.
+    - Division: Count the first row of 10 beads, break them into 2 sets of 5, and ask–how many 5's can go into 10 beads? 2? So 10 divided by 2 is 5? And that means half of 10 is 5 right? (reinforce fractions).
+    - Modulo: Count 5 beads and ask: "How many 2's go into this group of 5 beads? 2? Oh, then how many are left over? Awesome, our answer is 1!" Repeat with 6 modulo 2, "Ok, so none are left over this time! Our answer is 2!"
+- Count coins. Start with 'how many', counting them sequentially as objects. Then talk about the assigned values of the coins (pennies, nickels, dimes), and try to add and subtract them by value. Multiplication, division, and modulo operations can be reinforced as well.
+- 'Calculator Fun': reinforce arithmetic operations with symbols. "See! 5 times 2 is 10! The number machine says so!"
+
+- (Making this fun with no strings attached)
+- (Don't step in too fast, don't be afraid to cover seemingly difficult/adult concepts–learning the vocabulary of all this stuff comes later)
+- Light switch Binary (radix, similar to languages - numbers have different bases for our systems of numeration)
+- ['Math Wizardry for Kids'](https://www.amazon.com/Math-Wizardry-Kids-Margaret-Kenda/dp/B00A18KYP2)
+  - For Parents and Teachers section: [Page 1](https://i.imgur.com/RmzpyKV.jpg), [Page 2](https://i.imgur.com/zsOGEEG.jpg), [Page 3](https://i.imgur.com/pC8WcMU.jpg), [Page 4](https://i.imgur.com/mMz4n7Q.jpg).
+- Shapes/Patterns outside: clouds, houses, etc -> shapes
+- Draw Nature's Shapes: Draw all things as shapes together.
+- Draw shapes in a sandbox
+- Make a cat/bird/etc out of triangles - introduce the idea of angles θ!
+- 'Stars in shapes' game!
+  - Design your own four sided shapes and cut them out (trapezoids)
+  - Draw lines to connect the corners together. Do you see the triangles starting to emerge?
+  - 5 sided shape: Pentagon - Now stars are emerging when you connect the corners together! (5 sided star)
+  - 6 sided shape: Hexagon - 6 sided star
+  - 8 sided shape: Octagons - 8 sided star. When you connect all the points, what shapes do you see? (Squares, triangles, rectangles)
+  - Polygons (points and lines): Now lets try a 12 sided shape. What shape is this starting to look like? (A circle)
+  - Cut out all your starry shapes and hang them together!
+- 'Shapes in a picture'
+  - Discover shapes within it
+  - Cut out those shapes
+- 'Citrus Shapes'
+  - Cut an orange, lemon, or grapefruit in half and ask 'what shapes do you see in here?' (triangles)
+  - How many triangles are in here?
+  - Now, how many make the whole? (reinforce fractions)
+- 'Secret Code'
+- Count letters
+- Assign Numbers
+- Code a word
+- Decode a word
+- Letters to numbers
+- Shapes to numbers
+- Letters to shapes
