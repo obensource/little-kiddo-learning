@@ -24,20 +24,20 @@ Fight against cultural barriers around specific subjects. These biases are usual
 
 ## Table of Subjects
 
-- [Words](https://github.com/obensource/little-kiddo-learning/blob/master/words.md)
-- [Reading](https://github.com/obensource/little-kiddo-learning/blob/master/reading.md)
-- [Writing](https://github.com/obensource/little-kiddo-learning/blob/master/writing.md)
-- [Numbers](https://github.com/obensource/little-kiddo-learning/blob/master/numbers.md)
-- [Math](https://github.com/obensource/little-kiddo-learning/blob/master/math.md)
-- [Geometry](https://github.com/obensource/little-kiddo-learning/blob/master/geometry.md)
-- [Physics](https://github.com/obensource/little-kiddo-learning/blob/master/physics.md)
-- [Direction](https://github.com/obensource/little-kiddo-learning/blob/master/direction.md)
-- [Geography](https://github.com/obensource/little-kiddo-learning/blob/master/geography.md)
-- [Horticulture](https://github.com/obensource/little-kiddo-learning/blob/master/horticulture.md)
-- [Astronomy](https://github.com/obensource/little-kiddo-learning/blob/master/astronomy.md)
-- [Programming](https://github.com/obensource/little-kiddo-learning/blob/master/programming.md)
-- [Music](https://github.com/obensource/little-kiddo-learning/blob/master/music.md)
+- [Words](./words.md)
+- [Reading](./reading.md)
+- [Writing](./writing.md)
+- [Numbers](./numbers.md)
+- [Math](./math.md)
+- [Geometry](./geometry.md)
+- [Physics](./physics.md)
+- [Direction](./direction.md)
+- [Geography](./geography.md)
+- [Horticulture](./horticulture.md)
+- [Astronomy](./astronomy.md)
+- [Programming](./programming.md)
+- [Music](./music.md)
 
 ## Supportive Media
 
-- [Constructive Educational Shows](https://github.com/obensource/little-kiddo-learning/blob/master/constructive-educational-shows.md)
+- [Constructive Educational Shows](./constructive-educational-shows.md)
