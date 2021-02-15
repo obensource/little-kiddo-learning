@@ -24,19 +24,19 @@ Fight against cultural barriers around specific subjects. These biases are usual
 
 ## Table of Subjects
 
-- [Words](./words.md)
-- [Reading](./reading.md)
-- [Writing](./writing.md)
-- [Numbers](./numbers.md)
-- [Math](./math.md)
-- [Geometry](./geometry.md)
-- [Physics](./physics.md)
-- [Direction](./direction.md)
-- [Geography](./geography.md)
-- [Horticulture](./horticulture.md)
-- [Astronomy](./astronomy.md)
-- [Programming](./programming.md)
-- [Music](./music.md)
+- [Words](words.md)
+- [Reading](reading.md)
+- [Writing](writing.md)
+- [Numbers](numbers.md)
+- [Math](math.md)
+- [Geometry](geometry.md)
+- [Physics](physics.md)
+- [Direction](direction.md)
+- [Geography](geography.md)
+- [Horticulture](horticulture.md)
+- [Astronomy](astronomy.md)
+- [Programming](programming.md)
+- [Music](music.md)
 
 ## Supportive Media
 
